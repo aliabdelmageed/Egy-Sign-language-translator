@@ -12,6 +12,7 @@ I collected the data myself, there are about 18805 images.
 
 ## Model
 I used transfer learning with ResNet-50
+You can download the 'weights.h5' file from here => https://drive.google.com/file/d/1-6a6rsUF-EqwOumYNEgBA8vLpjWhPmUB 
 
 ## Web page
 I built a single page using HTML, CSS, JS and the backend with Flask.
