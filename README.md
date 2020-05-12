@@ -1,4 +1,4 @@
-# Arab-Sign-language-translator
+# Arabic-Sign-language-translator
 ## A web application to translate sign language using Computer Vision
 Ii's a prototype that translate 10 signs:
 ["me","close","continue","eat","Where","listen","open","short","tall","watch"]
